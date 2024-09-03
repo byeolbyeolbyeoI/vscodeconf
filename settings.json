@@ -1,0 +1,41 @@
+{
+    "code-runner.runInTerminal": true,
+    "workbench.colorTheme": "Night Owl (No Italics)",
+    "editor.tabSize": 2,
+    "editor.fontSize": 14,
+    "editor.formatOnSave": true,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.renderWhitespace": "all",
+    "editor.minimap.enabled": false,
+    "editor.renderLineHighlight": "none",
+    "editor.mouseWheelZoom": true,
+    "workbench.layoutControl.type": "menu",
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.limit.value": 1,
+    "workbench.editor.limit.perEditorGroup": true,
+    "files.autoSave": "onWindowChange",
+    "explorer.openEditors.visible": 1,
+    "breadcrumbs.enabled": false,
+    "editor.renderControlCharacters": false,
+    "editor.scrollbar.verticalScrollbarSize": 2,
+    "editor.scrollbar.horizontalScrollbarSize": 2,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "workbench.layoutControl.enabled": false,
+    "editor.lineNumbers": "relative",
+
+    // look
+    "workbench.activityBar.location": "hidden", // leftiest
+    "workbench.statusBar.visible": false, // bottom, visual normal insert
+    "workbench.sideBar.location": "right", // beside activity bar
+    "window.menuBarVisibility": "toggle", // top left right
+    "window.titleBarStyle": "custom", // idk
+    "workbench.editor.showTabs": "multiple", // settings.json web.php
+
+    "vim.cursorStylePerMode.insert": "line",
+    "vim.cursorStylePerMode.normal": "line",
+    "vim.cursorStylePerMode.visual": "line",
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
